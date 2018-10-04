@@ -1,0 +1,9 @@
+Package: com.shemeshapps.pushforapollo
+Name: Push For Apollo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ShemeshApps
+Author: ShemeshApps
+Section: Tweaks
