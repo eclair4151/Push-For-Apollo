@@ -1,2 +1,2 @@
-# Push-For-Apllo
-turn your reddit push notifications in apollo ones.
+# Push For Apllo
+A jailbreak tweak to turn your reddit push notifications in apollo ones.
