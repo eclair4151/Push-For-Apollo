@@ -3,7 +3,7 @@ Name: Push For Apollo
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Takes the official Reddit app push notifications and turns them into Apollo ones. There are no settings to configure, but you need to open the Apollo app at least once to allow notification permissions. This tweak is also open source! https://github.com/eclair4151/Push-For-Apllo
 Maintainer: ShemeshApps
 Author: ShemeshApps
 Section: Tweaks
